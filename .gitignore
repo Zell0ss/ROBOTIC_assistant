@@ -1,0 +1,6 @@
+.venv
+documents
+.env
+*.bin
+*.sqlite3
+__pycache__
