@@ -1,7 +1,7 @@
 .venv
 documents
 .env
-*.bin
 *.sqlite3
 __pycache__
 .vscode
+chroma_data

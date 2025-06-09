@@ -1,9 +1,11 @@
 ipykernel
 langchain
 langchain_community
+langchain_huggingface
 langchain_openai
 langchain_chroma
 dotenv
 openai
 chromadb
 tiktoken
+sentence_transformers
